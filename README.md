@@ -1,7 +1,9 @@
 # ML-Logistic_Regression
 Logistic Regression:
 It is a supervised learning algorithm which divides data into groups or classes, by estimating the probability that an observation matches to a certain class given on its characteristics.
+
 The Dataset is taken from Kaggle -Red Wine Quality.
+
 There are total of 11 Independent Variables namely:
 1 - fixed acidity
 2 - volatile acidity
@@ -21,6 +23,7 @@ Develop and evaluate a logistic model to predict the quality (such as high quali
 Features that affect wine quality: 'fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol' .
 
 Calculate the accuracy of the prediction. 
+
 
 
 
